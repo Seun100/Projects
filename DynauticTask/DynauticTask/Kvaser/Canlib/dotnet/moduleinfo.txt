@@ -1,0 +1,3 @@
+module=dotnet
+version=1_7_463
+hgid=44b02002d007

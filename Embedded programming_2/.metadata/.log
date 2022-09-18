@@ -1,0 +1,56 @@
+!SESSION 2022-09-11 00:03:08.699 -----------------------------------------------
+eclipse.buildId=Version 1.8.0
+java.version=11.0.11
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_GB
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2022-09-11 00:03:32.019
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2022-09-11 00:03:32.051
+!MESSAGE Log4j initialized with config file C:\Users\coolz\Desktop\Embedded programming_2\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2022-09-11 00:03:35.078
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2022-09-11 00:16:07.883
+!MESSAGE Indexed 'Timer_interrupt' (3 sources, 53 headers) in 0.836 sec: 1,964 declarations; 2,810 references; 0 unresolved inclusions; 2 syntax errors; 2 unresolved names (0.042%)
+!SESSION 2022-09-18 13:27:12.084 -----------------------------------------------
+eclipse.buildId=Version 1.8.0
+java.version=11.0.11
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_GB
+Framework arguments:  C:\Users\coolz\Desktop\Embedded programming_2\Timer_interrupt\.project
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 C:\Users\coolz\Desktop\Embedded programming_2\Timer_interrupt\.project
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2022-09-18 13:27:24.722
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2022-09-18 13:27:24.769
+!MESSAGE Log4j initialized with config file C:\Users\coolz\Desktop\Embedded programming_2\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2022-09-18 13:27:30.506
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2022-09-18 13:27:31.622
+!MESSAGE Indexed 'Timer_interrupt' (7 sources, 68 headers) in 0.803 sec: 3,272 declarations; 5,594 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.023%)
+!SESSION 2022-09-18 23:28:27.424 -----------------------------------------------
+eclipse.buildId=Version 1.8.0
+java.version=11.0.11
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_GB
+Framework arguments:  C:\Users\coolz\Desktop\Embedded programming_2\Timer_interrupt\.project
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 C:\Users\coolz\Desktop\Embedded programming_2\Timer_interrupt\.project
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2022-09-18 23:28:36.951
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2022-09-18 23:28:37.010
+!MESSAGE Log4j initialized with config file C:\Users\coolz\Desktop\Embedded programming_2\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2022-09-18 23:28:42.142
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2022-09-18 23:28:43.181
+!MESSAGE Indexed 'Timer_interrupt' (7 sources, 68 headers) in 0.732 sec: 3,272 declarations; 5,594 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.023%)

@@ -1,0 +1,22 @@
+
+
+-----------------------------------------------------------------------
+Fastinst - (C) 2007 Kvaser AB, SWEDEN -  www.kvaser.com
+Date: Fri Sep 16 12:07:37 2022
+Current directory: C:\Users\coolz\Desktop\DynauticTask\DynauticTask\Kvaser\Drivers
+INF file: C:\Users\coolz\Desktop\DynauticTask\DynauticTask\Kvaser\Drivers\kvaser64.inf
+-----------------------------------------------------------------------
+Exit code 0
+
+
+
+-----------------------------------------------------------------------
+Fastinst - (C) 2007 Kvaser AB, SWEDEN -  www.kvaser.com
+Date: Fri Sep 16 12:07:39 2022
+Current directory: C:\Users\coolz\Desktop\DynauticTask\DynauticTask\Kvaser\Drivers
+INF file: (none)
+-----------------------------------------------------------------------
+Error 1072 in InstallDriver: The specified service has been marked for deletion.
+
+Exit code -1
+
